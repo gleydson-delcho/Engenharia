@@ -1,0 +1,27 @@
+:root {
+    --bgc-dark: #000000;
+    --logo-height: 70vh;
+    --header-height: 100px;
+    --aside-width: 100vw;
+    --footer-height: 40px;
+    --bg-dark-green: linear-gradient(to right, #000000, #0b883f);
+    --shadow:
+        0 2px 23px 0 rgb(21, 95, 255),
+        0 2px 49px 0 rgb(21, 209, 62);
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.app.aside .header .logo {
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+
+

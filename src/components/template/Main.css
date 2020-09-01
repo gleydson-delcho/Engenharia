@@ -1,0 +1,5 @@
+main > div {
+    background-color: #fff;
+    box-shadow: 0 0 15px rgb(21, 95, 255);
+    text-align: justify;
+}

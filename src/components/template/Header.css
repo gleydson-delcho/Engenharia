@@ -1,0 +1,14 @@
+header.header {
+    color: #ffffff;
+    height: 100px;
+    align-items: flex-start;
+    margin-right: 20px;  
+    overflow: hidden;  
+    white-space: nowrap;   
+}
+
+header.header h1 {
+    font-size: 1.4rem;
+}
+
+

@@ -1,0 +1,34 @@
+aside.logo{
+    background: var(--bg-dark-green);
+    width: 100%;
+    height: 100px;
+    box-shadow: var(--shadow);
+}
+
+.logo {
+    display: flex;
+    margin-right: 10vw;  
+}
+
+.logo img {
+    padding: 20px 10px;
+}
+
+#text {
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    overflow: hidden;  
+    white-space: nowrap;
+}
+
+.logo.header.lead p {
+    display: block;       
+}
+
+@media(max-width: 690px) {
+    #text {
+        display: none;
+    }        
+}

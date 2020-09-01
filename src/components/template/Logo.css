@@ -1,0 +1,23 @@
+
+.subHeader {      
+    display: flex;
+    margin-right: 10vw;
+    border-radius: 25% 0%;
+}
+
+aside.subHeader{
+    margin-bottom: 10px;
+    background: var(--bg-dark-green);
+    width: 100%;
+    height: 100px;
+    box-shadow: var(--shadow);    
+}
+Header {
+    padding: 0 0 0px 20px;
+}
+
+@media (max-width: 570px) {
+    .subHeader {
+        display:none;
+    }
+}
