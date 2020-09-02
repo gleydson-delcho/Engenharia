@@ -9,6 +9,7 @@ import Mortar from '../components/subjects/Mortar';
 import Aggregates from '../components/subjects/Aggregates';
 
 export default props =>
+
     <Switch>
         <Route exact path='/' component={Home} />
         <Route path='/Patologia' component={Pathology} />

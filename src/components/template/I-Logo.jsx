@@ -1,7 +1,8 @@
 import './I-Logo.css';
 import React from 'react';
 
-import Logo from '../../assets/images/logo.png';
+import Logo from '../../assets/images/logo1.png';
+
 
 export default props =>
     // Terei que separar o componente Logo em outro componente! Para que a responsividade da página fique boa!

@@ -1,7 +1,6 @@
 import './Nav.css';
 import React from 'react';
 
-
 export default props =>
     <aside className="menu-area">
         {/* <button type="button" className="menu-toggle contaier-fluid" data-toggle="collapse" data-target=".menu">

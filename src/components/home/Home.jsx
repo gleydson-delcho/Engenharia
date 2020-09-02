@@ -2,6 +2,7 @@ import React from 'react';
 import Main from '../template/Main';
 import Logo from '../template/Logo';
 
+
 export default props =>
 <React.Fragment>
     <Main >

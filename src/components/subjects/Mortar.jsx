@@ -8,6 +8,7 @@ const headerProps = {
     subtitle: 'Controle tecnológico de argamassa de uso geral.'
 }
 
+
 export default class Mortar extends Component {
     render() {
         return (

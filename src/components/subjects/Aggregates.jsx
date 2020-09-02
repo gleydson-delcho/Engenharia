@@ -8,6 +8,7 @@ const headerProps = {
     subtitle: 'Ensaios de caracterização de agregados para concreto.'
 }
 
+
 export default class Aggregates extends Component {
     render() {
         return (

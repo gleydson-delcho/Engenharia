@@ -10,6 +10,7 @@ import Footer from '../components/template/Footer';
 import ILogo from '../components/template/I-Logo';
 
 export default props =>
+
     <HashRouter>
         <div className="app">            
             <ILogo />                        
