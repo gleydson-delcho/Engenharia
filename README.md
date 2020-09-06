@@ -1,10 +1,10 @@
-<h2>Frontend para um site voltado para minha área de formação</h2>
+# Frontend para um site voltado para minha área de formação
 
 Enfrentei alguns desafios neste desenvolvimento, pois é o meu primeiro projeto solo em React.
 
 Ainda pretendo fazer alterações principalmente na parte de responsividade, mas a parte desktop era isso que eu gostaria de apresentar.
 
-<h2>Próximos passos</h2>
+# Próximos passos
 
 * Melhorar a responsividade;
 * Adicionar conteúdo real sobre os assuntos;
@@ -12,5 +12,9 @@ Ainda pretendo fazer alterações principalmente na parte de responsividade, mas
 * Adicionar funcionalidades para estudantes e profissionais da área;
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
->>>>>>> origin/master
 
+# Página inicial (imagem)
+
+<p>Página inicial do site em funcionamento</p>
+
+<img src="./src/assts/images/site-engenharia.png" alt="imagem">
