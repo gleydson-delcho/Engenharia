@@ -17,4 +17,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <p>Página inicial do site em funcionamento</p>
 
-<img src="./src/assts/images/site-engenharia.png" alt="imagem">
+<img src="./gitimages/site-engenharia.png" width: alt="imagem">
